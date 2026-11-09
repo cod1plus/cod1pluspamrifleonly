@@ -1,0 +1,4 @@
+/dist/
+*.pk3
+!pk3/*.pk3
+__pycache__/
